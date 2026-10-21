@@ -19,7 +19,7 @@ Setiap pertemuan dikelompokkan ke dalam folder terpisah yang memuat kode sumber,
 | Pertemuan | Topik & Materi | Folder Proyek | Laporan Notion | Status |
 |---|---|---|---|:---:|
 | **Pertemuan 01** | Pengenalan Framework & Program C# Console Manajemen Data Mahasiswa | [Pertemuan-01-Pengenalan-Framework](./Pertemuan-01-Pengenalan-Framework) | [Laporan Notion](https://app.notion.com/p/Pertemuan-1-Pengenalan-Framework-Program-Data-Mahasiswa-4009c0720c5a81518a79c91d73d45da2) | Selesai |
-| **Pertemuan 02** | .NET Console CRUD (In-Memory List) | [Pertemuan-02-DotNet-Console-CRUD](./Pertemuan-02-DotNet-Console-CRUD) | - | Siap Dikerjakan |
+| **Pertemuan 02** | .NET Console CRUD (In-Memory List) | [Pertemuan-02-DotNet-Console-CRUD](./Pertemuan-02-DotNet-Console-CRUD) | [Laporan Notion](https://app.notion.com/p/Pertemuan-2-NET-Framework-Latihan-Aplikasi-Console-CRUD-4009c0720c5a8100b9cdd41f09ac70c7) | Selesai |
 | **Pertemuan 03** | Aplikasi Desktop GUI - Kalkulator Sederhana | [Pertemuan-03-Desktop-Calculator](./Pertemuan-03-Desktop-Calculator) | - | Siap Dikerjakan |
 | **Pertemuan 04** | WPF Rich UI - Formulir Registrasi Mahasiswa | [Pertemuan-04-WPF-Student-Registration](./Pertemuan-04-WPF-Student-Registration) | - | Siap Dikerjakan |
 | **Pertemuan 05** | WPF Student Management System (DataGrid & CRUD) | [Pertemuan-05-WPF-Student-Management](./Pertemuan-05-WPF-Student-Management) | - | Siap Dikerjakan |
