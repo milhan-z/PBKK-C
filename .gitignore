@@ -21,3 +21,7 @@ venv/
 *.suo
 *.userosscache
 *.sln.docstates
+*.exe
+*.dll
+*.pdb
+*.zip
